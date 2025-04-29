@@ -16,3 +16,7 @@ POST   `/login/cadastro`     Cadastra um novo usuário
 PUT     `/login/update`      |Atualiza a senha do usuário   
 
 proyecto  con bastante conceitos de programacao e ferrramentas de desenvomiento para aprender e profundizar 
+
+
+java -jar server-gerenciamentos-login2025-0.0.1-SNAPSHOT.jar
+comando para abrir o Jar 
